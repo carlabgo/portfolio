@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0fa32311.css",
+    "main.js": "/static/js/main.99ba0e04.js",
+    "static/media/hero.jpg": "/static/media/hero.ee14a4771b9aeb776e6c.jpg",
+    "static/media/senor-cara-papa-actor-dobale-muerte.jpg": "/static/media/senor-cara-papa-actor-dobale-muerte.27292f051b8b95f66ca4.jpg",
+    "index.html": "/index.html",
+    "main.0fa32311.css.map": "/static/css/main.0fa32311.css.map",
+    "main.99ba0e04.js.map": "/static/js/main.99ba0e04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fa32311.css",
+    "static/js/main.99ba0e04.js"
+  ]
+}
