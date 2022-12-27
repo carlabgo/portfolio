@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0fa32311.css",
-    "main.js": "/static/js/main.99ba0e04.js",
-    "static/media/hero.jpg": "/static/media/hero.ee14a4771b9aeb776e6c.jpg",
-    "static/media/senor-cara-papa-actor-dobale-muerte.jpg": "/static/media/senor-cara-papa-actor-dobale-muerte.27292f051b8b95f66ca4.jpg",
-    "index.html": "/index.html",
-    "main.0fa32311.css.map": "/static/css/main.0fa32311.css.map",
-    "main.99ba0e04.js.map": "/static/js/main.99ba0e04.js.map"
+    "main.css": "/portfolio/static/css/main.0fa32311.css",
+    "main.js": "/portfolio/static/js/main.3e5d2b99.js",
+    "static/media/hero.jpg": "/portfolio/static/media/hero.ee14a4771b9aeb776e6c.jpg",
+    "static/media/senor-cara-papa-actor-dobale-muerte.jpg": "/portfolio/static/media/senor-cara-papa-actor-dobale-muerte.27292f051b8b95f66ca4.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.0fa32311.css.map": "/portfolio/static/css/main.0fa32311.css.map",
+    "main.3e5d2b99.js.map": "/portfolio/static/js/main.3e5d2b99.js.map"
   },
   "entrypoints": [
     "static/css/main.0fa32311.css",
-    "static/js/main.99ba0e04.js"
+    "static/js/main.3e5d2b99.js"
   ]
 }
