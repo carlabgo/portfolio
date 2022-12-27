@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "home": "https://carlabgo.github.io/portfolio/",
+  "homepage": "https://carlabgo.github.io/portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
