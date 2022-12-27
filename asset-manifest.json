@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0fa32311.css",
-    "main.js": "/portfolio/static/js/main.3e5d2b99.js",
+    "main.css": "/portfolio/static/css/main.1c618ca7.css",
+    "main.js": "/portfolio/static/js/main.6831a770.js",
     "static/media/hero.jpg": "/portfolio/static/media/hero.ee14a4771b9aeb776e6c.jpg",
-    "static/media/senor-cara-papa-actor-dobale-muerte.jpg": "/portfolio/static/media/senor-cara-papa-actor-dobale-muerte.27292f051b8b95f66ca4.jpg",
+    "static/media/pro1.png": "/portfolio/static/media/pro1.6f69cbff3aa8fd29a864.png",
+    "static/media/pro2.png": "/portfolio/static/media/pro2.cee3fc3cd8a750754c09.png",
+    "static/media/icons8-c-sharp-logotipo(2).svg": "/portfolio/static/media/icons8-c-sharp-logotipo(2).d5aefe7484d189f0b133b51cbc71f317.svg",
     "index.html": "/portfolio/index.html",
-    "main.0fa32311.css.map": "/portfolio/static/css/main.0fa32311.css.map",
-    "main.3e5d2b99.js.map": "/portfolio/static/js/main.3e5d2b99.js.map"
+    "main.1c618ca7.css.map": "/portfolio/static/css/main.1c618ca7.css.map",
+    "main.6831a770.js.map": "/portfolio/static/js/main.6831a770.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fa32311.css",
-    "static/js/main.3e5d2b99.js"
+    "static/css/main.1c618ca7.css",
+    "static/js/main.6831a770.js"
   ]
 }
