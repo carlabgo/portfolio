@@ -10,7 +10,7 @@ const AboutContent = () => {
         <div className="about">
             <div className="left">
                 <h1>¿Quién soy?</h1>
-                <p>Soy una desarrolladora full stack con ganas de crecer
+                <p>Soy una desarrolladora full-stack con ganas de crecer
                     en el mundo de la programación y de mejorar mis habilidades. Me
                     considero una persona flexible, que sabe adaptarse a
                     los cambios, que sabe trabajar en equipo y que busca
